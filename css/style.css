@@ -27,7 +27,7 @@ body{
 .header{
     background-color:rgb(0, 0, 0);
     box-shadow: 0px 2px 2px black;
-    color:white;
+    color:rgb(255, 255, 255);
     height:4rem;
 
     display:flex;
@@ -68,32 +68,32 @@ footer{
 /*elements*/
 
 .p1 {
-    background-image:linear-gradient(rgb(0, 150, 7), rgb(160, 0, 0)),
+    background-image:linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)),
     url(../images/palacio_pena.jpg);
    
      
 }
 
 .p2 {
-    background-image: linear-gradient(rgb(0, 150, 7), rgb(160, 0, 0)),
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)),
     url(../images/bailarina.jpg);
     
 }
 
 .p3 {
-    background-image: linear-gradient(rgb(0, 150, 7), rgb(160, 0, 0)),
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)),
     url(../images/night.jpg);
     
 }
 
 .p4 {
-    background-image: linear-gradient(rgb(0, 150, 7), rgb(160, 0, 0)),
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)),
     url(../images/restaurante.jpg);
     
 }
 
 .p5 {
-    background-image:linear-gradient(rgb(0, 150, 7), rgb(160, 0, 0)),
+    background-image:linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)),
     url(../images/jacuzi.jpg);
     
 }
@@ -122,7 +122,7 @@ footer{
     box-shadow:inset 0 0 10px 4px rgba(0, 0, 0, 0.294);
     background-size:cover;
     background-position:center;
-    background-blend-mode:soft-light;
+    background-blend-mode:saturation;
     
     font-size:1.5rem;
     text-align:center;
